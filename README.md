@@ -5,6 +5,7 @@
 ### Bread
 
 Get two pieces of bread and toast them to the amount of toastiness preffered.
+<img src="https://pngtree.com/freepng/sliced-toasted-bread-png-background_5047749.html" alt="toasted bread">
 
 Types of bread to use:
 
@@ -20,7 +21,6 @@ Types of bread to use:
 Find a banana. They usually look like this
 
 Slice your banana into pieces to put on your bread
-[Image of sliced banana](src="https://www.nationalfoodgroup.com/NFG/media/DownloadedMedia/12687260.jpg" alt="sliced bread")
 
 ## step 3
 
