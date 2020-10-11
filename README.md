@@ -4,7 +4,7 @@
 
 ### Bread
 
-Get two pieces of bread and toast them to the amount of toastiness preffered.
+Get two pieces of bread and toast them to the amount of toastiness preferred.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0u4nkBvZHGT5veyfbEHl9D2jNE30PMJlKcw&usqp=CAU" alt="toast" width="370" height="300">
 
@@ -52,7 +52,7 @@ Now that your sandwich is finished, you can now eat it. Enjoy your sandwich with
 
 ## One More Thing!
 
-Now you can enjoy your sandwich while bopping out to the latest Blackpink album, **The Album** ! 
+You can also enjoy your sandwich while bopping out to the latest Blackpink album, **The Album** ! 
 
 [Blackpink - Lovesick Girls](https://www.youtube.com/watch?v=dyRsYk0LyA8)
 
