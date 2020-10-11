@@ -56,4 +56,7 @@ Now you can enjoy your sandwich while bopping out to the latest Blackpink album,
 
 [Blackpink - Lovesick Girls](https://www.youtube.com/watch?v=dyRsYk0LyA8)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa79_8qryL4wdVAAAjgr4-qcFZ4KzLDFl-hQ&usqp=CAU" alt="Blackpink" width="500" height="600">
+
+
 ### Thank you! °˖✧◝(⁰▿⁰)◜✧˖° 
