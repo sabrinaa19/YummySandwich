@@ -5,6 +5,7 @@
 ### Bread
 
 Get two pieces of bread and toast them to the amount of toastiness preffered.
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0u4nkBvZHGT5veyfbEHl9D2jNE30PMJlKcw&usqp=CAU" alt="toast" width="400" height="300">
 
 Types of bread to use:
