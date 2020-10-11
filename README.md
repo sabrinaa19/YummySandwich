@@ -6,7 +6,7 @@
 
 Get two pieces of bread and toast them to the amount of toastiness preffered.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0u4nkBvZHGT5veyfbEHl9D2jNE30PMJlKcw&usqp=CAU" alt="toast" width="500" height="350">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0u4nkBvZHGT5veyfbEHl9D2jNE30PMJlKcw&usqp=CAU" alt="toast" width="500" height="300">
 
 Types of bread to use:
 
@@ -21,7 +21,7 @@ Types of bread to use:
 
 Find a banana. They usually look like this
 
-<img src="https://api.time.com/wp-content/uploads/2019/11/gettyimages-459761948.jpg?quality=85&crop=0px%2C74px%2C1024px%2C536px&resize=1200%2C628&strip" alt="banana" width="200" height="400">
+<img src="https://api.time.com/wp-content/uploads/2019/11/gettyimages-459761948.jpg?quality=85&crop=0px%2C74px%2C1024px%2C536px&resize=1200%2C628&strip" alt="banana" width="400" height="200">
 
 Slice your banana into pieces to put on your bread
 
