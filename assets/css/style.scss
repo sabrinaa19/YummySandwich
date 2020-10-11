@@ -9,9 +9,10 @@
     background-image: linear-gradient(120deg, #f06292, #ffd54f);
 }
 
-.body {
-    h1 color: #b0003a;
-    h2 color: #ed407a;
-    h3 color: #ffc107;
-}
+---
+---
 
+@import "{{ site.theme }}";
+.body {
+    color: #b0003a;
+}
