@@ -48,7 +48,7 @@ When you finish putting your banana slices on the bread, put the other piece of 
 
 Now that your sandwich is finished, you can now eat it. Enjoy your sandwich with a glass of milk or other refreshment. Enjoy (っ˘ڡ˘ς)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrJpPdLBUtZsJ8FZBeYUZPAJ-UjscKyoZ5jw&usqp=CAU" alt="sandwich" width="400" height="250">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrJpPdLBUtZsJ8FZBeYUZPAJ-UjscKyoZ5jw&usqp=CAU" alt="sandwich" width="500" height="200">
 
 ## One More Thing!
 
