@@ -1,11 +1,11 @@
-# How to Make a Banana Chocolate Sandwich ヾ(・ω・*)
+# How to Make a Banana Chocolate Sandwich
 
 ## step 1
 
 ### Bread
 
 Get two pieces of bread and toast them to the amount of toastiness preffered.
-[Image](https://spin.atomicobject.com/wp-content/uploads/20181021220124/MakingToast-590x219.jpg)
+[Image](banana.jpeg)
 
 Types of bread to use:
 
@@ -19,7 +19,7 @@ Types of bread to use:
 ### Banana
 
 Find a banana. They usually look like this
-[Image](https://lh3.googleusercontent.com/proxy/-AaBYscA6mCSu5TdBYeIV2Go3g-0r9FKQbbYqyMjI1QpQfWkc4t5lde_moYUSAIiCUpomNNhvWa8vG_EYhKdiZk85JM4HtCBbmZ2AEoT5kRazoFWqit6zjFPS2TI-V0NEv4PULs)
+[Image]()
 
 Slice your banana into pieces to put on your bread
 [Image](https://www.nationalfoodgroup.com/NFG/media/DownloadedMedia/12687260.jpg)
@@ -51,6 +51,6 @@ Now that your sandwich is finished, you can now eat it. insert kaomoji here. Enj
 
 Now you can enjoy your sandwich while bopping out to the latest Blackpink album, **The Album** ! 
 
-[Link](https://www.youtube.com/watch?v=dyRsYk0LyA8)
+[Blackpink - Lovesick Girls](https://www.youtube.com/watch?v=dyRsYk0LyA8)
 
 ### Thank you! °˖✧◝(⁰▿⁰)◜✧˖° 
