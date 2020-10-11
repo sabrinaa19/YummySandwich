@@ -31,7 +31,7 @@ Slice your banana into pieces to put on your bread
 
 Get some Nutella or any other type of chocolate spread
 
-<img src="https://i5.walmartimages.com/asr/5c4745a2-ac22-4faa-ad1a-c94630542ec0.7174989afa081173c0df849292a4e060.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" alt="nutella" width="270" height="300">
+<img src="https://i5.walmartimages.com/asr/5c4745a2-ac22-4faa-ad1a-c94630542ec0.7174989afa081173c0df849292a4e060.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" alt="nutella" width="280" height="300">
 
 Spread the Nutella / chocolate spread onto one side of both pieces of bread with a butter knife
 
