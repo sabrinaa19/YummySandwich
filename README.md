@@ -31,7 +31,7 @@ Slice your banana into pieces to put on your bread
 
 Get some Nutella or any other type of chocolate spread
 
-<img src="https://i5.walmartimages.com/asr/5c4745a2-ac22-4faa-ad1a-c94630542ec0.7174989afa081173c0df849292a4e060.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" alt="nutella" width="400" height="300">
+<img src="https://i5.walmartimages.com/asr/5c4745a2-ac22-4faa-ad1a-c94630542ec0.7174989afa081173c0df849292a4e060.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" alt="nutella" width="400" height="250">
 
 Spread the Nutella / chocolate spread onto one side of both pieces of bread with a butter knife
 
@@ -48,7 +48,7 @@ When you finish putting your banana slices on the bread, put the other piece of 
 
 Now that your sandwich is finished, you can now eat it. Enjoy your sandwich with a glass of milk or other refreshment. Enjoy (っ˘ڡ˘ς)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOz66XFnryTufBvEjCuhnO_YXhzLmLT67BfA&usqp=CAU" alt="sandwich" width="400" height="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOz66XFnryTufBvEjCuhnO_YXhzLmLT67BfA&usqp=CAU" alt="sandwich" width="400" height="250">
 
 ## One More Thing!
 
