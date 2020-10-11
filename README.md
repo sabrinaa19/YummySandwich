@@ -56,7 +56,7 @@ Now you can enjoy your sandwich while bopping out to the latest Blackpink album,
 
 [Blackpink - Lovesick Girls](https://www.youtube.com/watch?v=dyRsYk0LyA8)
 
-<img src="https://static.billboard.com/files/2020/10/04-BLACKPINK-%E2%80%93-%E2%80%98Lovesick-Girls%E2%80%99-screenshot-2020-billboard-1548-1601644294-1024x677.jpg" width="500" height="300">
+<img src="https://static.billboard.com/files/2020/10/04-BLACKPINK-%E2%80%93-%E2%80%98Lovesick-Girls%E2%80%99-screenshot-2020-billboard-1548-1601644294-1024x677.jpg" width="490" height="300">
 
 
 ### Thank you! °˖✧◝(⁰▿⁰)◜✧˖° 
